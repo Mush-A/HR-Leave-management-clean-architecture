@@ -1,0 +1,12 @@
+C:\Users\Admin\source\repos\HR.LeaveManagement.Clean\HR.LeaveManagmenet.Domain\bin\Debug\net6.0\HR.LeaveManagmenet.Domain.deps.json
+C:\Users\Admin\source\repos\HR.LeaveManagement.Clean\HR.LeaveManagmenet.Domain\bin\Debug\net6.0\HR.LeaveManagmenet.Domain.dll
+C:\Users\Admin\source\repos\HR.LeaveManagement.Clean\HR.LeaveManagmenet.Domain\bin\Debug\net6.0\HR.LeaveManagmenet.Domain.pdb
+C:\Users\Admin\source\repos\HR.LeaveManagement.Clean\HR.LeaveManagmenet.Domain\obj\Debug\net6.0\HR.LeaveManagmenet.Domain.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\HR.LeaveManagement.Clean\HR.LeaveManagmenet.Domain\obj\Debug\net6.0\HR.LeaveManagmenet.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\HR.LeaveManagement.Clean\HR.LeaveManagmenet.Domain\obj\Debug\net6.0\HR.LeaveManagmenet.Domain.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\HR.LeaveManagement.Clean\HR.LeaveManagmenet.Domain\obj\Debug\net6.0\HR.LeaveManagmenet.Domain.AssemblyInfo.cs
+C:\Users\Admin\source\repos\HR.LeaveManagement.Clean\HR.LeaveManagmenet.Domain\obj\Debug\net6.0\HR.LeaveManagmenet.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\HR.LeaveManagement.Clean\HR.LeaveManagmenet.Domain\obj\Debug\net6.0\HR.LeaveManagmenet.Domain.dll
+C:\Users\Admin\source\repos\HR.LeaveManagement.Clean\HR.LeaveManagmenet.Domain\obj\Debug\net6.0\refint\HR.LeaveManagmenet.Domain.dll
+C:\Users\Admin\source\repos\HR.LeaveManagement.Clean\HR.LeaveManagmenet.Domain\obj\Debug\net6.0\HR.LeaveManagmenet.Domain.pdb
+C:\Users\Admin\source\repos\HR.LeaveManagement.Clean\HR.LeaveManagmenet.Domain\obj\Debug\net6.0\ref\HR.LeaveManagmenet.Domain.dll
